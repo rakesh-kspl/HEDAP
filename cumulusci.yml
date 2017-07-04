@@ -1,8 +1,8 @@
 project:
     dependencies:
-    - github: https://github.com/rakesh-kspl/HEDAP
-    - branch: master
-    
+    # - github: https://github.com/rakesh-kspl/HEDAP
+    # - branch: master
+
     name: HEDAP
     package:
         name: HEDA
