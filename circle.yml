@@ -1,7 +1,7 @@
 general:
   branches:
     only:
-      - /feature\/.*/
+      - /master\/.*/
 machine:
   python:
     version: 2.7.12
