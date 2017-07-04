@@ -1,4 +1,7 @@
 project:
+    dependencies:
+    - github: https://github.com/rakesh-kspl/HEDAP
+    
     name: HEDAP
     package:
         name: HEDA
